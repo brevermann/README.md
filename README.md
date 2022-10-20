@@ -1,5 +1,5 @@
 # README.md
-# Home Page
+# About Me!
 ## Welcome, my name is Bryce Revermann
 
 Navigate my website using these links
